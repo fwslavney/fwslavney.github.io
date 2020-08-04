@@ -1,0 +1,57 @@
+Math 107		Review sheet for test 4			28 Nov.
+
+Test 4 is Fri. 6 Dec. The topics for test 4 are from sections 5.1 - 5.5
+of the text. You may also some topics from the first three tests.
+
+Sec. 5.1 Exponential functions and their graphs
+Describe an exponential function.
+State the domain of an exponential function.
+State the range of an exponential function.
+State the horizontal asymptote of an exponential function.
+Graph a particular exponential function.
+Solve an elementary exponential equation.
+
+Sec. 5.2 Applications of exponential functions
+Describe a model for population growth.
+Describe a model for radioactive decay.
+List an equation for compound interest.
+Describe the number e.
+Describe the half life of a radioactive element.
+Solve an applied problem involving an exponential model.
+
+Sec. 5.3 Logarithmic functions and their graphs
+Define a logarithmic function.
+State the domain of a logarithmic function.
+State the range of a logarithmic function.
+State the vertical asymptote of a logarithmic function.
+Graph a particular logarithmic function.
+Describe the common logarithm.
+Describe the natural logarithm.
+
+Sec. 5.4 Properties and applications of logarithmic functions
+State several key properties of logarithms.
+State the change of base formula.
+Describe the Richter scale.
+Solve an applied problem involving a logarithmic function.
+
+Sec. 5.5 Exponential and logarithmic equations
+Convert between an exponential form and a logarithmic form.
+Solve an equation involving an exponential function.
+Solve an equation involving a logarithmic function.
+
+Bring graph paper and paper to the test. Test 4 is calculator free.
+
+Math 107 Sample test 4
+Answer all problems. Show all work. Each part counts 6 points.
+Put graphs on graph paper.
+1. Do p. 457 #2.
+2. Do p. 457 #6.
+3. Do p. 457 #14 & 15.
+4. Do p. 458 #21.
+5. Do p. 458 #28.
+6. Do p. 448 #75. 
+7. Do p. 426 #32.
+8. Do p. 416 #31.
+9. Do p. 448 #49.
+10. Do p. 448 #61.
+11. Do p. 402 #47. 

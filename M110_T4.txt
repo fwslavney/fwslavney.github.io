@@ -1,0 +1,79 @@
+Math 110		Review sheet for test 4			28 Nov.
+
+Test 4 is Th. 5 Dec. The topics for the test are from sections 10.5 - 10.7
+and section 11.2 of Stitz Zeager and your notes. But you need topics from 
+the first 4 sections of chapter 10.
+I will hold an optional review session at 4 PM on Wed. 4 Dec. in Cw 324.
+
+Sec. 10.5 Graphs of trigonometric functions
+Describe a periodic function.
+Describe the period of a periodic function.
+Identify a periodic function that is not a trigonometric function.
+State key properties of the cosine function.
+State key properties of the sine function.
+Make a five point graph of one period of f( x ) = sin( x ).
+Make a five point graph of one period of f( x ) = cos( x ).
+Describe the geometric transformations needed to transform y = sin( x ) into
+    y = A sin( omega x + phi ) + B.
+Describe the geometric transformations needed to transform y = cos( x ) into
+    y = A cos( omega x + phi ) + B.
+Find the period, amplitude, phase shift and vertical shift of
+    y = A sin( omega x + phi ) + B and y = A cos( omega x + phi ) + B.
+Write y = A sin( omega x ) + B cos( omega x ) as 
+    S( x ) = C sin( omega x + phi
+Write y = A sin( omega x ) + B cos( omega x ) as 
+    C( x ) = C cos( omega x + phi
+State key properties of the secant function.
+State key properties of the cosecant function.
+Make a five point graph of one period of f( x ) = sec( x ).
+Make a five point graph of one period of f( x ) = csc( x ).
+State key properties of the tangent function.
+State key properties of the cotangent function.
+Make a five point graph of one period of f( x ) = tan( x ).
+Make a five point graph of one period of f( x ) = cot( x ).
+
+Sec. 10.6 Inverse trig functions
+Define each of the six inverse trig functions.
+Find the exact value of a particular inverse trig function at a special
+    number.
+Draw a 5 point graph for each of arcsin( x ), arccos( x ) and arctan( x ).
+State the domain and the range of each of the six inverse trig functions.
+List several key properties for each of the six inverse trig functions.
+Simplify an expression involving an inverse trig function using its
+    definition.
+Solve an word problem requiring the use of an inverse trig function.
+Find the domain and range of a particular function involving an inverse trig
+    function.
+
+Sec. 10.7 Trig equations
+Describe a strategy for solving basic equations involving trig functions.
+Find all solutions for a particular trig function.
+Find all solutions between 0 and 2 pi for a particular trig function.
+Solve an equation involving an inverse trig function.
+
+Sec. 11.2 Law of sines
+State the law of sines.
+Use the law of sines to solve an applied problem.
+State the angle side side theorem. (p. 901)
+Use the angle side side theorem for a particular data set.
+
+Bring graph paper and paper to the test. The test is calculator free.
+You may use a 3 inch by 5 inch index card of hand written formulas on
+the test. But you must turn in your card with your test.
+
+Math 110	Sample test 4
+Answer all problems. Show all work. Each part counts 6 points.
+Briefly explain your work.
+
+1. Do p. 809 #12.
+2. Do p. 809 #21.
+3. Do p. 841 #11 & 35.
+4. Do p. 844 #159.
+5. Do p. 845 #184.
+6. Do p. 846 #215. Use radian measure.
+7. Do p. 847 #223.
+8. Plot a 5 point graph for f( x ) = 2 arccos( x - 1/2 ).
+9. Do p. 874 #9.
+10. Do p. 874 #28.
+11. Do p. 875 #59.
+12. Do p. 905 #14.

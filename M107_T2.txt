@@ -1,0 +1,97 @@
+Math 107		Review sheet for test 2			5 Oct.
+
+Test 2 is Wed. 9 Oct. The topics for test 2 are from sections 2.1 and
+sections 3.1 - 3.3, 3.5, 3.6 of the text. You may also need some topics 
+from the first test.
+
+I will hold an optional review session Tu. 8 Oct. at 2 PM in CW 320.
+
+Sec. 2.1 Cartesian coordinate system
+Describe the Cartesian coordinate system.
+Define a quadrant.
+Find the quadrant of a particular point.
+Graph an equation by completing a table of values.
+State the distance formula for two points in the plane.
+Find the distance between two particular points in the plane.
+State the midpoint formula for two points in the plane.
+Find the midpoint for two particular points in the plane.
+
+Sec. 2.6 Circles
+State the standard form for the equation of a circle, with center ( h, k )
+    and radius r.
+Graph a particular circle accurately on graph paper.
+Complete the square for an equation of the form Ax² + Bx + Ay² + Cy + D = 0.
+
+Sec. 3.1 Relations and functions
+Describe a relation.
+Describe a function.
+Describe the domain of a function.
+Describe the range of a function.
+Find the domain of a particular function.
+Find the range of a particular function.
+Describe the vertical line test.
+Evaluate a function at a particular point.
+
+Sec. 3.2 Linear and quadratic functions
+Describe a linear function.
+Describe a quadratic function.
+State the domain of a quadratic function.
+Plot the graph of a quadratic function.
+Describe the vertex of a quadratic function.
+Find the vertex of a quadratic function.
+Find the range of a quadratic function.
+Solve a max/min problem for a particular quadratic function.
+
+Sec. 3.3 Other common functions
+For each of the following common functions state its domain, range and draw
+        its graph for a real number a and positive integer n
+    Power function p( x ) = ax^n 
+    Reciprocal function r( x ) = a / x^n 
+    Root function s( x ) = a x^(1/n)
+    Absolute value function a( x ) = | x | = abs( x )
+    Greatest integer function g( x ) = int( x )
+Describe a piecewise function.
+Graph a particular piecewise function.
+
+Sec. 3.5 Transformations of functions
+Describe a horizontal shift of a function.
+Describe a vertical shift of a function.
+Describe a reflection of a function in the x axis.
+Describe a reflection of a function in the y axis.
+Find the domain, range and plot the graph of a transformation of a common
+    function using a horizontal shift, stretching or compressing, reflection
+    and vertical shift.
+Describe symmetry with respect to the y axis.
+Describe symmetry with respect to the origin.
+Note that these transformations apply to the 6 common trigonometric functions
+    of sine, cosine, tangent, cosecant, secant and cotangent.
+
+Sec. 3.6 Combining functions
+Combine two functions with addition, subtraction, multiplication or division.
+Define the composite of 2 functions.
+Compute the composite of 2 particular functions.
+
+Bring graph paper and paper to the test. 
+Test 3 requires the use of a graphing calculator.
+
+
+Math 107 Sample test 3
+Answer all problems. Show all work. Each part counts 6 points.
+Put graphs on graph paper.
+
+
+Math 107 Sample test 2
+Answer all problems. Show all work. Each part counts 6 points.
+Put graphs of graph paper.
+1. Do p. 204 #4.
+2. Do p. 204 #10.
+3. Do p. 204 #15.
+4. Do p. 206 #35.
+5. Do p. 303 #19. Plot the graph of the function.
+6. Do p. 303 #27.
+7. Do p. 304 #41.
+8. Do p. 237 #46.
+9. Do p. 305 #57. 
+   State the domain of the transformed function. 
+   Plot the graph of the transformed function.
+10. Do p. 302 #15. Simplify your answer.

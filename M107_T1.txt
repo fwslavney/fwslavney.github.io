@@ -1,0 +1,102 @@
+Math 107		Review sheet for test 1			3 Sep.
+
+Test 1 is Mon. 9 Sep. The topics for test 1 are from sections 1.1 - 1.8.
+
+Ch. 1 Equations and inequalities on one variable
+Sec. 1.1 Real numbers and algebraic expressions
+Describe set builder notation.
+Describe a set of real numbers with set builder notation.
+Describe interval notation.
+Describe a set of real numbers with interval notation.
+Define absolute value of a real number.
+List several important properties of absolute value.
+Find the absolute value of a particular real number.
+Find the distance between two real numbers.
+State the additive cancellation property of algebraic expression.
+State the multiplicative cancellation property of algebraic expression.
+State the zero factor property.
+Use these properties to simplify an algebraic expression.
+Use these properties to solve an equation.
+
+Sec. 1.2 Properties of exponents and radicals
+List several important properties of exponents.
+List several important properties of radicals.
+Know the mth root of x to the power n equals x to the power n/m.
+Describe scientific notation.
+State the formula for the perimeter of a triangle.
+State the formula for the perimeter of a circle.
+State the formula for the perimeter of a rectangle.
+State the formula for the perimeter of a trapezoid.
+State the formula for the area of a triangle.
+State the formula for the area of a circle.
+State the formula for the area of a rectangle.
+State the formula for the area of a trapezoid.
+State the formula for the surface area of a rectangular box.
+State the formula for the surface area of a sphere.
+State the formula for the surface area of a right circular cylinder.
+State the formula for the volume of a rectangular box.
+State the formula for the volume of a sphere.
+State the formula for the volume of a right circular cylinder.
+Know ( a + b )^2 = a^2 + 2ab + b^2
+Know ( a - b )^2 = a^2 - 2ab + b^2
+List the difference of squares formula.
+List the sum of cubes formula.
+List the difference of cubes formula.
+
+Sec. 1.3 Polynomials and factoring
+Define a polynomial.
+Define the degree of a polynomial.
+Do algebra with polynomials.
+Factor a polynomial using the greatest common factor.
+Factor a polynomial by grouping.
+Factor a trinomial.
+
+Sec. 1.4 Complex numbers
+Describe a complex number.
+Do algebra with complex numbers.
+State the conjugate of a complex number.
+
+Sec. 1.5 Linear equations in one variable.
+Solve a linear equation in one variable.
+Solve an absolute value equation.
+Solve an equation for one variable.
+Solve a distance problem.
+Solve an interest problem.
+
+Sec. 1.6 Linear inequalities in one variable.
+Solve a linear inequality in one variable.
+Solve a compound linear inequality in one variable.
+Solve an absolute value inequality.
+Translate inequality phrases.
+
+Sec 1.7 Quadratic equations
+Solve a quadratic equation.
+State the quadratic formula.
+Solve a quadratic like equation.
+Solve a polynomial equation by factoring.
+Solve a polynomial like equation by factoring.
+
+Sec 1.8 Rational and radical equations
+Simplify a rational expression.
+Do algebra with rational expressions.
+Solve a rational equation.
+Solve a radical equation.
+Solve an equation with positive rational exponents.
+
+Bring graph paper and paper to the test.
+You can not use your graphing calculator on the test. You may use a four
+function calculator.
+
+Math 107 Sample test 1
+Answer all problems. Show all work. Each part counts 6 points.
+
+1. Do p. 129 #9.
+2. Do p. 129 #11.
+3. Do p. 130 #18.
+4. Do p. 130 #23.
+5. Do p. 130 #26.
+6. Do p. 130 #30.
+7. Do p. 130 #31.
+8. Do p. 131 #36.
+9. Do p. 131 #37.
+10. Do p. 131 #38.

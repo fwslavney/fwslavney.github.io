@@ -1,0 +1,88 @@
+Math 110		Review sheet for test 2			5 Oct.
+
+Test 2 is Th. 10 Oct. The topics for the test are from sections 10.3 and part
+of 10.4 of Stitz Zeager and your notes. But you need topics from sections 
+10.1 and 10.2 of Stitz Zeager.
+
+I will hold an optional review session Wed. 9 Oct. at 4 PM in CW 309.
+
+Sec. 10.3 Six trigonometric functions and basic identities
+Define the six trigonometric functions on the unit circle.
+State the reciprocal identities.
+State the quotient identities.
+State the Pythagorean identities.
+State the domain and the range for each of the 6 trigonometric functions. 
+    (p. 757)
+
+State a strategy for verifying trigonometric identities.
+Verify trigonometric identities.
+Solve an applied problem with trigonometry.
+
+Sec. 10.4 Trigonometric identities
+State the even identities.
+State the odd identities.
+State the sum and difference identities for cosine.
+State the cofunction identities.
+State the sum and difference identities for sine.
+State the sum and difference identities for tangent.
+State the double angle identities.
+State the power reduction formulas.
+State the half angle identities.
+Use the formulas to compute exact values of certain angles.
+Verify trigonometric identities.
+
+The basic trig identities that you need to memorize appear in the text
+on the following pages:
+    reciprocal and quotient identities p. 745
+    Pythagorean identities p. 749
+    even and odd identities p. 770
+    cofunction identities p. 773
+    sum and difference identities for cosine p. 771
+    sum and difference identities for sine p. 773
+
+Sec. 10.5 Graphs of trigonometric functions
+Describe a periodic function.
+Describe the period of a periodic function.
+Identify a periodic function that is not a trigonometric function.
+State key properties of the cosine function.
+State key properties of the sine function.
+Make a five point graph of one period of f( x ) = sin( x ).
+Make a five point graph of one period of f( x ) = cos( x ).
+Describe the geometric transformations needed to transform y = sin( x ) into
+    y = A sin( omega x + phi ) + B.
+Describe the geometric transformations needed to transform y = cos( x ) into
+    y = A cos( omega x + phi ) + B.
+Find the period, amplitude, phase shift and vertical shift of
+    y = A sin( omega x + phi ) + B and y = A cos( omega x + phi ) + B.
+Write y = A sin( omega x ) + B cos( omega x ) as 
+    S( x ) = C sin( omega x + phi )
+Write y = A sin( omega x ) + B cos( omega x ) as 
+    C( x ) = C cos( omega x + phi )
+State key properties of the secant function.
+State key properties of the cosecant function.
+Make a six point graph of one period of f( x ) = sec( x ).
+Make a six point graph of one period of f( x ) = csc( x ).
+State key properties of the tangent function.
+State key properties of the cotangent function.
+Make a six point graph of one period of f( x ) = tan( x ).
+Make a six point graph of one period of f( x ) = cot( x ).
+
+Bring graph paper and paper to the test. You may not use an electronic device,
+a graphing calculator or a cheat or formula sheet on the test. You may use a
+non graphing calculator.
+
+Math 110	Sample test 2
+Answer all problems. Show all work. Each part counts 6 points.
+Briefly explain your work.
+
+1. Do p. 759 #32
+2. Do p. 760 #60.
+3. Do p. 782 #20.
+4. Do p. 782 #22.
+5. Do p. 784 #54.
+6. Do p. 809 #9.
+7. Do p. 809 #13.
+8. Do p. 809 #18.
+9. Do p. 762 #91.
+10. Do p. 763 #125.
+11. Do p. 783 #31.

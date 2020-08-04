@@ -1,0 +1,39 @@
+Math 107		Review sheet for test 3			3 Nov.
+
+Test 3 is Fri. 8 Nov. The topics for test 3 are from section 3.7 and algebraic
+identities. You will also need some topics from the first two tests.
+
+Sec. 3.7 Inverses of functions
+Describe the inverse of a function.
+Describe a procedure to find the inverse of an invertible function.
+Describe the relation between the domain and range of an invertible function
+    and the domain and range of its inverse.
+Find the inverse of a particular function.
+Identify when a function has an inverse.
+Describe the horizontal line test.
+Explain restriction of domain.
+Find the inverse of a particular function after restricting its domain.
+Verify that the composite of a function and its inverse is the identity
+    function.
+Verify that the composite of the inverse of a function and the function is 
+    the identity function.
+Graph an invertible function and its inverse on the same set of axes.
+
+Algebraic identities
+Verify a particular algebraic identity.
+
+Bring graph paper, paper and a non graphing calculator to the test.
+
+Math 107 Sample test 3
+Answer all problems. Show all work. Each part counts 6 points.
+Put graphs on graph paper.
+
+1) Find the inverse of the function f( x ) = 3x - 4.
+2) Do p. 306 #89.
+3) Do p. 306 #83. 
+   Plot the graph of f and its inverse function.
+   Find the range of f.
+4) On the algebraic identities worksheet do #3.
+5) On the algebraic identities worksheet do #18.
+6) On the algebraic identities with s² + c² = 1 do #10.
+7) On the algebraic identities with s² + c² = 1 do #17.

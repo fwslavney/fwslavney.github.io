@@ -1,0 +1,90 @@
+Math 110		Review sheet for test 1			3 Sep.
+
+Test 1 is Th. 12 Sep. The topics for the test are from sections 10.1, 10.2 and
+some of 10.3 of Stitz Zeager and your notes.
+
+Sec. 10.1 Angles and their measures
+Describe the measure of an angle.
+Describe an acute angle.
+Describe an obtuse angle.
+Describe a right angle.
+Describe a straight angle.
+Describe complementary angles.
+Describe supplementary angles.
+Describe an angle in standard position.
+Describe coterminal angles.
+Draw a particular angle in the Cartesian plane.
+Determine the quadrant of a particular angle.
+Define a quadrantal angle.
+Given a particular angle find coterminal angles.
+Define pi.
+Define radian measure.
+Convert from radian measure to degree measure.
+Convert from degree measure to radian measure.
+Describe angular velocity.
+Describe linear velocity.
+Describe the relation between linear velocity and angular velocity.
+Find the area of a sector of a circle with central angle of t radians.
+
+Sec. 10.2 Cosine and sine
+Describe the unit circle.
+Define the cosine of an angle on the unit circle.
+Define the sine of an angle on the unit circle.
+For a particular point of the unit circle, find the cosine and sine of its
+    angle.
+State the Pythagorean identity.
+Define the reference angle for an angle.
+Find the reference angle for a particular angle.
+Know the 45 degree 45 degree right triangle.
+Know the 30 degree 60 degree right triangle.
+Know the important points on the unit circle. (Figure on p. 724 of the text.)
+Know what SOH-CAH-TOA abbreviates.
+Know the equations of motion for constant angular velocity.
+Solve a right triangle.
+State the domain and the range for the cosine function.
+State the domain and the range for the sine function.
+
+Sec. 10.3 Six trigonometric functions and basic identities
+Define the six trigonometric functions on the unit circle.
+State the reciprocal identities.
+State the quotient identities.
+State the Pythagorean identities.
+State the domain and the range for the tangent function.
+State the domain and the range for the secant function.
+State the domain and the range for the cotangent function.
+State the domain and the range for the cosecant function.
+
+Bring graph paper and paper to the test. 
+You can not use a calculator on the test.
+
+Math 110	Calculator free sample test 1
+Answer all problems. Show all work. Each part counts 6 points.
+Briefly explain your work.
+
+1. Express 4 Pi / 3 in degrees.
+
+2. Sketch the angle 225 degrees.
+
+3. Find the area of the sector of a circle with diameter of 10 inches
+   and a central angle of 2 Pi / 3.
+
+4. A DVD has a radius of 2 inches and spins at 600 rpm. 
+a. Find the angular speed in radians per minutes.
+b. Find the linear speed in inches per second.
+
+5. Find the values of the 6 trigonometric functions for the angle 11 Pi / 6.
+
+6. Find all solutions to sin( t ) = -1/2.
+
+7. Find all solutions to cot( t ) = sqrt( 3 ).
+
+8. Find the exact values of the other 5 trigonometric functions if
+   sec( t ) = 7 / 3 and t is in quadrant IV.
+
+9. Find the exact values of the 6 trigonometric functions of the angle t
+   if the terminal side of the angle t in standard position contains the 
+   point ( -2, 3 ).
+
+10. Do p. 737 #56.
+
+11. State the domain and range of the secant function.

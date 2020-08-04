@@ -1,0 +1,71 @@
+Math 106		Review sheet and sample test 1			8 Sep.
+
+Test 1 is Th. 16 Sep. The topics for the test are from sections 9.1, 9.2,
+9.3 and class notes.
+
+Ch. 9 The derivative
+Define the average rate of change of a function over an interval.
+Find the average rate of change of a function over an interval.
+Give a geometric interpretation for the average rate of change of a function 
+    over an interval.
+Find the secant line for a function over an interval.
+Define the difference quotient of a function at a point.
+Find the difference quotient of a particular function at a point.
+Define the instantaneous rate of change of a function at a point.
+Find the instantaneous rate of change of a particular function at a point.
+Distinguish between average rate of change and instantaneous rate of change of
+    a function.
+Describe a technology tip to estimate the instantaneous rate of change of a
+    function at a point.
+Numerically estimate the instantaneous rate of change of a function at a point.
+Use the derivative notation to describe the instantaneous rate of change of a
+    function at a point.
+Find the equation of the tangent line of a function at a point.
+Approximate the derivative from a table of data.
+Explain the meaning of the statement that "near a point ( a, f(a) ) a function f
+    is close to its tangent line at that point."
+Illustrate graphically that a particular function at a particular points is 
+    close to its tangent line
+Give a graphical interpretation of the average rate of change of a function at 
+    a point.
+Give a graphical interpretation of the instantaneous rate of change of a 
+    function at a point.
+Find the derivative of a particular function with a four step process,
+Interpret the meaning of the derivative for a particular applied problem.
+
+Know that the limit of ( 1 + x )^(1/x) as positive x approaches 0 is the 
+number e.
+
+Use your graphing calculator to find an appropriate model for a set of data.
+Explain the significance of R^2.
+Make a business decision from a mathematical model associated with a set of
+    data.
+
+Review sheet for the test
+The test questions will be similar to uncollected problems assigned from the
+textbook and problems in MyOpenMath. You should be able to do all of the 
+uncollected problems. One way to study for the test is to make up a 
+personalized review sheet. You may not use your review sheet for the test.
+
+Bring a graphing calculator, graph paper and paper to the test.
+
+Math 106 Sample Test 1
+Answer all problems. Show all work. Briefly explain your work.
+
+1. Do p. 606 #7. 
+2. Do p. 606 #13.
+3. Do p. 607 #21. 
+4. Do p. 623 #9. 
+5. Do p. 624 #33. 
+6. Do p. 638 #5. 
+7. Do p. 638 #11. 
+8. Do p. 638 #21. 
+b. Plot the data on graph paper.
+c. Name an appropriate model for the data. Find that model.
+d. Use the data to estimate the instantaneous rate of change of wages per year
+   in 1997.
+e. Use the model to estimate the instantaneous rate of change of wages per
+   year in 1997.
+f. Compare the two answers. Which is more accurate? Why?
+9. Find the derivative of f( x ) = -3x^2 + 5x - 8 by algebra. That is, find
+   the difference quotient ( f( x + h ) - f( x ) ) / h.
