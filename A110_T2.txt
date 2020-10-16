@@ -1,0 +1,79 @@
+Algebra 115 		                     Review Sheet for Test 1     
+
+Test 1 is currently scheduled for (Date). Topics for test one include the following; Chapters 1 & 2.
+
+CALCULATOR usage for this test is strictly prohibited. 
+
+CHAPTER 1: SOME BASIC CONCEPTS OF ARITHMETIC AND ALGEBRA
+  1.1 Numerical and Algebraic Expressions
+    Obj. 1: Recognize basic vocabulary and symbols associated with sets
+    Obj. 2: Simplify numerical expressions according to the order of operations
+    Obj. 3: Evaluate algebraic expressions 
+
+  1.2 Prime and Composite Numbers
+    Obj. 1: Identify whole numbers greater than one as prime or composite 
+    Obj. 2: Factor a whole number into a product of prime numbers 
+    Obj. 3: Find the greatest common factor of two or more whole numbers
+    Obj. 4: Find the least common multiple of two or more whole numbers   
+
+  1.3 Integers: Addition and Subtraction
+    Obj. 1: Know the terminology associated with sets of integers 
+    Obj. 2: Add and subtract integers 
+    Obj. 3: Evaluate algebraic expressions for integer values
+    Obj. 4: Apply the concepts of adding and subtracting integers to model problems 
+
+  1.4 Integers: Multiplication and Division
+    Obj. 1: Multiply and divide integers 
+    Obj. 2: Evaluate algebraic expressions involving the multiplication and division of integers 
+    Obj. 3: Apply the concepts of multiplying and dividing integers to model problems
+
+  1.5 Use of Properties
+    Obj. 1: Recognize the properties of integers 
+    Obj. 2: Apply the properties of integers to simplify numerical expressions 
+    Obj. 3: Simplify algebraic expressions
+
+CHAPTER 2: REAL NUMBERS
+  2.1 Rational Numbers: Multiplication and Division
+    Obj. 1: Reduce rational numbers to lowest terms
+    Obj. 1: Multiply and divide rational numbers
+    Obj. 1: Solve application problems involving multiplication and division of rational numbers
+
+  2.2 Addition and Subtraction of Real Numbers
+    Obj. 1: Add and subtract rational numbers in fractional form
+    Obj. 2: Combine similar terms whose coefficients are rational numbers in fractional form 
+    Obj. 3: Solve application problems that involve the addition and subtraction of rational numbers in fractional form
+
+  2.3 Real Numbers and Algebraic Expressions
+    Obj. 1: Classify real numbers
+    Obj. 2: Add, subtract, multiply, and divide rational numbers in decimal form
+    Obj. 3: Combine similar terms whose coefficients are rational numbers in decimal form
+    Obj. 4: Evaluate algebraic expressions when the variables are rational numbers
+    Obj. 5: Solve application problems that involve the operations of rational numbers in decimal form
+
+  2.4 Exponents
+    Obj. 1: Know the definition and terminology for exponential notation
+    Obj. 2: Simplify numerical expressions that involve exponents
+    Obj. 3: Simplify algebraic expressions by combining similar terms
+    Obj. 4: Reduce algebraic fractions involving exponents
+    Obj. 5: Add, subtract, multiply, and divide algebraic fractions
+    Obj. 6: Evaluate algebraic expressions that involve exponents
+
+2.5 Translating from English to Algebra
+    Obj. 1: Translate algebraic expressions into English phrases
+    Obj. 2: Translate English phrases into algebraic expressions
+    Obj. 3: Write algebraic expressions for converting units of measure within a measurement system
+
+I highly suggest you work the practice review problems at the back of the two chapters. (Look at practice test below) 
+=================================================================================================================================
+ALGEBRA 115         PRACTICE TEST ONE 
+
+There are 60 problems in this practice exam. I suggest that you complete this under the same conditions you would for a usual test or quiz in this class. Remember to show all of your work.
+
+The following problems come from the chapter one review which can be found on pages 36-38 in your textbook.
+Problems: 1, 3, 4, 6, 10, 13, 14, 16, 18, 21, 23, 25, 26, 28, 29, 34, 37, 39, 41, 43, 45, 48, 52, 53, 54, 59, 61, 62, 65, 68
+
+The following problems come from the chapter two review which can be found on pages 82-86 in your textbook.
+Problems: 2, 3, 6, 7, 8, 9, 13, 15, 16, 17, 20, 23, 26, 27, 29, 32, 34, 39, 40, 42, 44, 45, 47, 48, 49, 50, 51, 56, 58, 62
+
+
+** Worked out solutions to these problems will be posted on my webpage on the day prior to test day.
