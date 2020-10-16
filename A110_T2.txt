@@ -1,6 +1,6 @@
 Algebra 115 		                     Review Sheet for Test 1     
 
-Test 1 is currently scheduled for (Date). Topics for test one include the following; Chapters 1 & 2.
+Test 2 is currently scheduled for (Date). Topics for test two include the following; Chapters 3-5.
 
 CALCULATOR usage for this test is strictly prohibited. 
 
@@ -58,14 +58,14 @@ CHAPTER 2: REAL NUMBERS
     Obj. 5: Add, subtract, multiply, and divide algebraic fractions
     Obj. 6: Evaluate algebraic expressions that involve exponents
 
-2.5 Translating from English to Algebra
+  2.5 Translating from English to Algebra
     Obj. 1: Translate algebraic expressions into English phrases
     Obj. 2: Translate English phrases into algebraic expressions
     Obj. 3: Write algebraic expressions for converting units of measure within a measurement system
 
 I highly suggest you work the practice review problems at the back of the two chapters. (Look at practice test below) 
 =================================================================================================================================
-ALGEBRA 115         PRACTICE TEST ONE 
+ALGEBRA 115         PRACTICE TEST TWO 
 
 There are 60 problems in this practice exam. I suggest that you complete this under the same conditions you would for a usual test or quiz in this class. Remember to show all of your work.
 

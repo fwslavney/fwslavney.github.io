@@ -57,28 +57,28 @@ Alg 115 ELEMENTARY ALGEBRA               HOMEWORK ASSIGNMENTS
 -----------------------------------------------------------------------------
 
  > Homework Assignment 10 | Due (Date)
-   Complete all of the following graded problems below.
+   Complete all of the following graded problems below.(15 assigned problems)
   
     >  Sec 3.1 | 8 16 24 30 34 42 46 50 54 65
 
-    >  Sec 3.2 | 8 16 24 30 34 42 46 50 54 65
+    >  Sec 3.2 | 12 24 36 48 60 66
 
  > Homework Assignment 11 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. (15 assigned problems)
   
-    >  Sec 3.3 | 10 14 24 38 48 58 66 76
+    >  Sec 3.3 | 4 16 28 40 52 64 76 84
 
-    >  Sec 3.4 | 8 16 24 30 34 42 46 50 54 65
+    >  Sec 3.4 | 2 14 26 38 50 58 64
 
  > Homework Assignment 12 | Due (Date)
-   Complete all of the following graded problems below.
+   Complete all of the following graded problems below.(12 assigned problems)
   
-    >  Sec 3.5 | 8 16 24 30 34 42 46 50 54 65
+    >  Sec 3.5 | 8 10 16 22 28 34 40 46 52 58 66 70
 
  > Homework Assignment 13 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. (12 assigned problems)
   
-    >  Sec 3.6 | 10 14 24 38 48 58 66 76
+    >  Sec 3.6 | 8 16 24 32 40 48 52 56 60 64 72 78
 
  > Homework Assignment 14 | Due (Date)
    Complete all of the following graded problems below.
@@ -88,7 +88,7 @@ Alg 115 ELEMENTARY ALGEBRA               HOMEWORK ASSIGNMENTS
     >  Sec 4.2 | 
 
  > Homework Assignment 15 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
     >  Sec 4.3 | 
 
@@ -107,7 +107,7 @@ Alg 115 ELEMENTARY ALGEBRA               HOMEWORK ASSIGNMENTS
     >  Sec 5.2 | 
 
  > Homework Assignment 18 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
     >  Sec 5.3 | 
 
@@ -117,14 +117,14 @@ Alg 115 ELEMENTARY ALGEBRA               HOMEWORK ASSIGNMENTS
     >  Sec 5.4 | 
 
  > Homework Assignment 20 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
     >  Sec 5.5 | 
 
     >  Sec 5.6 | 
 
 -----------------------------------------------------------------------------
-     > > > 		END OF MATERIAL FOR EXAM ONE 	 	< < < 
+     > > > 		END OF MATERIAL FOR EXAM TWO 	 	< < < 
 -----------------------------------------------------------------------------
 
  > Homework Assignment 21 | Due (Date)
@@ -133,7 +133,7 @@ Alg 115 ELEMENTARY ALGEBRA               HOMEWORK ASSIGNMENTS
     >  Sec 6.1 | 
 
  > Homework Assignment 22 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
     >  Sec 6.2 | 
 
@@ -152,36 +152,126 @@ Alg 115 ELEMENTARY ALGEBRA               HOMEWORK ASSIGNMENTS
     >  Sec 7.1 | 
 
  > Homework Assignment 25 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
     >  Sec 7.2 | 
 
  > Homework Assignment 26 | Due (Date)
    Complete all of the following graded problems below.
   
-    >  Sec 3.5 | 8 16 24 30 34 42 46 50 54 65
+    >  Sec 7.3 | 
+
+    >  Sec 7.4 | 
 
  > Homework Assignment 27 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
-    >  Sec 3.6 | 10 14 24 38 48 58 66 76
+    >  Sec 7.5 | 
+
+    >  Sec 7.6 | 
 
  > Homework Assignment 28 | Due (Date)
    Complete all of the following graded problems below.
   
-    >  Sec 4.1 | 
+    >  Sec 8.1 | 
 
-    >  Sec 4.2 | 
+    >  Sec 8.2 | 
 
  > Homework Assignment 29 | Due (Date)
-   Complete all of the following graded problems below. (8 assigned problems)
+   Complete all of the following graded problems below. 
   
-    >  Sec 4.3 | 
+    >  Sec 8.3 | 
 
- > Homework Assignment 16 | Due (Date)
+    >  Sec 8.4 | 
+
+ > Homework Assignment 30 | Due (Date)
    Complete all of the following graded problems below.
   
-    >  Sec 1.1 | 8 16 24 30 34 42 46 50 54 65
+    >  Sec 8.5 | 
 
-    >  Sec 3.1 | 8 16 24 30 34 42 46 50 54 65
+    >  Sec 8.6 | 
 
+-----------------------------------------------------------------------------
+     > > > 		END OF MATERIAL FOR EXAM THREE 	 	< < < 
+-----------------------------------------------------------------------------
+
+ > Homework Assignment 31 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 9.1 | 
+
+ > Homework Assignment 32 | Due (Date)
+   Complete all of the following graded problems below. 
+  
+    >  Sec 9.2 | 
+
+ > Homework Assignment 33 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 9.3 | 
+
+ > Homework Assignment 34 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 9.4 | 
+
+ > Homework Assignment 35 | Due (Date)
+   Complete all of the following graded problems below. 
+  
+    >  Sec 9.5 | 
+
+ > Homework Assignment 36 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 10.1 | 
+
+ > Homework Assignment 37 | Due (Date)
+   Complete all of the following graded problems below. 
+  
+    >  Sec 10.2 | 
+
+ > Homework Assignment 38 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 10.3 | 
+
+ > Homework Assignment 39 | Due (Date)
+   Complete all of the following graded problems below. 
+  
+    >  Sec 10.4 | 
+
+ > Homework Assignment 40 | Due (Date)
+   Complete all of the following graded problems below. 
+  
+    >  Sec 11.1 | 
+
+ > Homework Assignment 41 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 11.2 | 
+
+ > Homework Assignment 42 | Due (Date)
+   Complete all of the following graded problems below. (8 assigned problems)
+  
+    >  Sec 11.3 | 
+
+ > Homework Assignment 43 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 11.4 | 
+
+ > Homework Assignment 44 | Due (Date)
+   Complete all of the following graded problems below.
+  
+    >  Sec 11.7 | 
+
+ > Homework Assignment 45 | Due (Date)
+   Complete all of the following graded problems below. (8 assigned problems)
+  
+    >  Sec 11.8 | 
+
+-----------------------------------------------------------------------------
+     > > > 		END OF MATERIAL FOR EXAM FOUR 	 	< < < 
+-----------------------------------------------------------------------------
+
+	     DO NOT FORGET TO STUDY FOR THE CUMULATIVE FINAL EXAM 
